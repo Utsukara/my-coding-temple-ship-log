@@ -1,3 +1,3 @@
 # my-coding-temple-ship-log
 
-  author: Coding Temple
+author: Coding Temple
